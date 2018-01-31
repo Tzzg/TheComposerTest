@@ -1,0 +1,19 @@
+{
+    "name": "zhangzhiguo/hello",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangzhiguo",
+            "email": "93757453@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Hello\\":"src/"
+        }
+        
+    }
+}
